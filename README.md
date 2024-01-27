@@ -1,2 +1,4 @@
-This is the first task I was given during the internship. I had to create a python program which would encrypt or decrypt user's message using Caesar Cipher Algorithm.
-It is a very simple encryption algorithm.
+This is the first task I was given during the internship at Prodigy InfoTech.
+It is a program in python which users a very simple encryption algorithm.
+This python program encrypts or decrypts a user's message using `Caesar Cipher Algorithm`.
+
